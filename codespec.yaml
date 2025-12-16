@@ -1,0 +1,8 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - echo "No build required. Just passing files through."
+artifacts:
+  files:
+    - '**/*'
